@@ -1,0 +1,4 @@
+/* assets/css/main.css */
+body {
+  @apply bg-white text-gray-900; /* Default background/text */
+}
