@@ -12,4 +12,8 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   content: {},
+  app: {
+    baseURL: '/davinci-landing/',
+    buildAssetsDir: 'assets',
+  }
 })
