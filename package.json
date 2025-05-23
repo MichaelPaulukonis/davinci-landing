@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare",
     "deploy": "gh-pages -d dist --nojekyll",
     "publish": "npm run generate && npm run deploy",
+    "pregenerate": "node ./scripts/generate-manifest.js",
+    "prebuild": "node ./scripts/generate-manifest.js",
     "open": "open https://michaelpaulukonis.github.io/davinci-landing"
   },
   "dependencies": {
