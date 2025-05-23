@@ -7,7 +7,7 @@
        <div class="relative container mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-16 md:pt-40 md:pb-24 min-h-[50vh] flex items-center">
          <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
-               <h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+               <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
                  Leonardo Da Vinci & The Mona Lisa
                </h1>
             </div>
@@ -75,8 +75,7 @@
             <div class="bg-gray-100 p-6 rounded-lg shadow-sm">
               <!-- Placeholder for image -->
               <div class="bg-gray-300 h-48 rounded mb-4 flex items-center justify-center text-gray-500">
-                  <img src="https://via.placeholder.com/400x200/E2E8F0/CBD5E0?text=Image+Placeholder" alt="The Last Supper Placeholder" class="w-full h-full object-cover rounded">
-                  <!-- In a real project replace with <img src="/path/to/image.jpg" alt="..."> -->
+                  <img src="~/assets/images/last_supper.jpg" alt="The Last Supper Placeholder" class="w-full h-full object-cover rounded">
               </div>
               <h3 class="text-xl font-semibold mb-2">The Last Supper</h3>
               <p class="text-gray-700 text-sm">
@@ -89,7 +88,8 @@
             <div class="bg-gray-100 p-6 rounded-lg shadow-sm">
                <!-- Placeholder for image -->
                <div class="bg-gray-300 h-48 rounded mb-4 flex items-center justify-center text-gray-500">
-                 <img src="https://via.placeholder.com/400x200/E2E8F0/CBD5E0?text=Image+Placeholder" alt="Vitruvian Man Placeholder" class="w-full h-full object-cover rounded">
+                 <img src="~/assets/images/vitruvian_01_crop.jpg" alt="Vitruvian Man Placeholder" class="w-full h-full object-cover rounded"
+                 style="object-position: top">
                </div>
               <h3 class="text-xl font-semibold mb-2">Vitruvian Man</h3>
               <p class="text-gray-700 text-sm">

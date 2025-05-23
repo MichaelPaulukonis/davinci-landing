@@ -53,11 +53,11 @@
         <div>
           <h3 class="text-white font-semibold mb-4">Socials</h3>
           <ul class="space-y-2">
-            <li><NuxtLink to="#" class="hover:text-white">linkedin</NuxtLink></li>
-            <li><NuxtLink to="#" class="hover:text-white">instagram</NuxtLink></li>
-            <li><NuxtLink to="#" class="hover:text-white">youtube</NuxtLink></li>
-            <li><NuxtLink to="#" class="hover:text-white">tiktok</NuxtLink></li>
-            <li><NuxtLink to="#" class="hover:text-white">github</NuxtLink></li>
+            <li><NuxtLink to="#" class="hover:text-white">vasaribook</NuxtLink></li>
+            <li><NuxtLink to="#" class="hover:text-white">lefthandedgram</NuxtLink></li>
+            <li><NuxtLink to="#" class="hover:text-white">florencetube</NuxtLink></li>
+            <li><NuxtLink to="#" class="hover:text-white">renaissancetok</NuxtLink></li>
+            <li><NuxtLink to="#" class="hover:text-white">borgiahub</NuxtLink></li>
           </ul>
         </div>
       </div>
